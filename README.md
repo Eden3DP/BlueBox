@@ -1,2 +1,2 @@
 # BlueBox
-Local pickup box fro 3D printers
+Local pickup box for 3D printers
