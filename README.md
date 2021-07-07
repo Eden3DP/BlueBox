@@ -1,5 +1,5 @@
 # BlueBox
-Local pickup box for 3D printers
+Local pickup metal container for 3D printers
 
 [images uploaded soon]
 
