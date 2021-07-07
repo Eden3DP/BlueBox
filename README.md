@@ -14,7 +14,7 @@ A: The BlueBox is a physical metal storage container for 3D printers to place us
 
 Q: What does the BlueBox do?
 ---
-A: This container is simply a place for 3D printers to place a finished product inside for local pickup. This BlueBox is locked and secured through a 
+A: This container is simply a place for 3D printers to place a finished product inside for local pickup. This BlueBox is locked and secured through a metal latch, powered to unlock and lock by a QR code on the lid. Users picking up their product will use their phone to scan the QR code from inside the Eden3D mobile app, unlocking the BlueBox. This sends a message to the 3D printer, showing that not only the product was picked up, but the part ws paid for via scanning the QR code. Sats delivered to the 3D printer full node. 
 
 Q: What is the purpose of the Eden3D Network?
 ---
