@@ -1,6 +1,7 @@
 # BlueBox
 Local pickup metal container for 3D printers
 
+Listed blow are a few images of BlueBox
 
 [images uploaded soon]
 
